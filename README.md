@@ -1,7 +1,5 @@
 # 🚀 KODE — O Universo da Programação ao seu Alcance
 
-> **Status do Projeto:** 🚀 Em desenvolvimento / Finalizado
-
 O **KODE** é uma plataforma web criada para servir como um guia prático, visual e super direto para quem está iniciando no mundo da tecnologia. Nosso objetivo é centralizar tudo o que você precisa saber sobre o mercado de trabalho, as carreiras do momento e as tecnologias mais utilizadas, dando o empurrãozinho inicial que todo futuro desenvolvedor precisa.
 
 ---
